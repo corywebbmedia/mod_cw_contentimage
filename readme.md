@@ -1,0 +1,1 @@
+# CW Content Image Module for Joomla
